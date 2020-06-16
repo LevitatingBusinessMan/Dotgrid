@@ -1,0 +1,10 @@
+{
+	"license": "MIT",
+	"scripts": {
+		"build": "node scripts/lib/build",
+		"tauri": "tauri build"
+	},
+	"devDependencies": {
+		"tauri": "^0.6.3"
+	}
+}
